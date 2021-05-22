@@ -38,12 +38,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/saitejagroove
@@ -66,6 +60,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Graduate student  at the University of Illinois, Chicago majoring in Computer Science. My interests include Deep learning, Distributed Computing and Software engineering. I'm passionate to create a interdisciplinary impact with Artificial intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently a graduate student working towards my Master of Science (M.S.) degree in Computer Science.
+
+

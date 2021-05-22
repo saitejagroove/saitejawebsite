@@ -21,7 +21,7 @@ subtitle = ""
   description = "Pytorch, Pandas, Numpy"
   
 [[feature]]
-  icon = "aws"
+  icon = "chart-network"
   icon_pack = "fas"
   name = "Scala, Java"
   description = "Distributed Cloud applications"  
