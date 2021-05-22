@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hyderabad"
   date_start = "2017-07-20"
-  date_end = "2018-05-1"
+  date_end = "2018-05-01"
   description = """Part of the Core Engineering Team, lead some critical customer focused projects.
   Responsibilities include:
   
