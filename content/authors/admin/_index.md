@@ -6,7 +6,7 @@ title: Sai Teja Karnati
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant at University of Illinois
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
