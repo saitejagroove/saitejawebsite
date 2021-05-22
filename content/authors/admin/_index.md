@@ -38,6 +38,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/saitejagroove
