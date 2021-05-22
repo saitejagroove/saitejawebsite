@@ -68,6 +68,6 @@ user_groups:
 
 I am a Graduate student at the University of Illinois, Chicago majoring in Computer Science. My interests include Deep learning, Distributed Computing and Software engineering. I'm passionate to create a interdisciplinary impact with Artificial intelligence.
 
-I'm currently a graduate student working towards my Master of Science (M.S.) degree in Computer Science.
+Having worked at different organizations with different set of products, I gained a special skill of grasping the big picture and overall goal within few days. 
 
 
