@@ -1,18 +1,18 @@
 ---
-title: Skewness Matters 
-summary: This project investigates the impact of skewness on the identifiability and estimability of parameters in linear and nonlinear DSGE models with rare disasters, downward wage rigidity and asymmetric production innovation using new statistical distributions and econometric methods.
+title: BERT based summarization using transfer learnig and Centroid Clustering technique 
+summary: This project investigates the usability of BERT pretrained models with few additional FC layers to get latent representation of sentences. We also explore the use of centroid clustering to summarize a long paragraph of review into 2-3 relevant and important sentences with an effective compression rate of around 80%.
 
 
 tags:
-- Skewness
-- DFG
-date: 2019-04-01
+- Deep Learning
+- NLP
+date: 2019-12-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Marron and Wand (1992)
+  caption: Sentence Clusters
   focal_point: Smart
 
 links:
