@@ -40,4 +40,29 @@ date_format = "Jan 2006"
   date_start = "2020-08-11"
   date_end = "2021-01-06"
   description = """Built a tool to help my work flow by converting terabytes of Genome datasets to structured VCF files for analysis. Studied new CNN architectures and Bioinformatics algorithms to use on the VCF datasets."""
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Zenoti"
+  company_url = ""
+  location = "Hyderabad"
+  date_start = "2017-07-20"
+  date_end = "2018-05-1"
+  description = """Part of the Core Engineering Team, lead some critical customer focused projects.
+  Responsibilities include:
+  
+  * Designed and developed a highly customizable Feedback system, used a lot across Customer Web front, Billing and different Zenoti customer devices (ASP.NET, JavaScript, AJAX, C#, JQuery).
+  * Wrote Stored Procedures, API functions, and integrated them in an Ajax, .NET Server-Client Architecture.
+  * Fixed over 100 bugs in Jira with challenging sprints in an Agile Scrum workflow."""
+
+[[experience]]
+  title = "Software Developer Intern"
+  company = "Dell EMC"
+  company_url = ""
+  location = "Bangalore"
+  date_start = "2016-07-01"
+  date_end = "2017-01-01"
+  description = """Part of the Documentum Team, lead a small docker containerization team.  Responsibilities include:
+  
+  * Initiated and demonstrated an alternative solution using Docker to deliver our core product 20 times faster. """
 +++
