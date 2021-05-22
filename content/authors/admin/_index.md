@@ -26,7 +26,7 @@ education:
   - course: MS in Computer Science
     institution: University of Illinois at Chicago
     year: 2021
-  - course: BE(Hons) in Computer Science and Engineering
+  - course: BE(Hons) in Computer Science
     institution: Birla Institute of Science and Technology
     year: 2017
 
@@ -37,13 +37,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:saitejakarnati21@gmail.org"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/saitejakarnati/
 - icon: github
   icon_pack: fab
   link: https://github.com/saitejagroove
@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Graduate student  at the University of Illinois, Chicago majoring in Computer Science. My interests include Deep learning, Distributed Computing and Software engineering. I'm passionate to create a interdisciplinary impact with Artificial intelligence.
+I am a Graduate student at the University of Illinois, Chicago majoring in Computer Science. My interests include Deep learning, Distributed Computing and Software engineering. I'm passionate to create a interdisciplinary impact with Artificial intelligence.
 
 I'm currently a graduate student working towards my Master of Science (M.S.) degree in Computer Science.
 
