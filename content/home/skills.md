@@ -18,19 +18,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "Pytorch, Pandas, Numpy"
+  
+[[feature]]
+  icon = "aws"
+  icon_pack = "fas"
+  name = "Scala, Java"
+  description = "Distributed Cloud applications"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "java"
-  icon_pack = "fas"
-  name = "Java"
-  description = "10%"
+  description = "Data science "
 
 # Uncomment to use emoji icons.
 # [[feature]]
