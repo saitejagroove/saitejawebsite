@@ -25,8 +25,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 links:
-- name: DFG Project
-  url: "https://gepris.dfg.de/gepris/projekt/411754673?language=en"
+- name: UIC Project
+  url: "https://github.com/saitejagroove/Sentiment-Analysis-and-summarization"
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -36,6 +36,4 @@ links:
 ---
 {{< figure library="true" src="dfg.png" lightbox="true">}}
 
-This project investigates the impact of skewness on the identifiability and estimability of parameters in linear and nonlinear DSGE models using new statistical distributions and econometric methods. The concrete aim of this project is to analyze DSGE models in which skewness occurs not only exogenously in the error term distribution, but also endogenously in the decision rules of agents. This will make it possible to estimate the macroeconomic effects of *asymmetric production innovations*, *downward wage rigies* and a small but *time-varying probability of disaster* and to carefully unravel the transmission channels and effects of *endogenous* and *exogenous skewness*. Since skewness is one of the most important determinants of economic risk, the results are relevant for the next generation of DSGE models to close the gap between the empirical macroeconomics and finance literature. 
-
-Methodically, we investigate the effect of skewness on the estimability of parameters in linear and nonlinear DSGE models using skewed statistical distributions that allow closed state space representations. The current approach is to extend modern Frequentist and Bayesian estimation methods by the use of so-called *skewed* Kalman and particle filters in order to efficiently evaluate the information from skewness and ultimately to allow a better fit of the model to the data. Algorithms are developed for both Frequentist estimation methods (moment-based and maximum likelihood) and Bayesian sequential Monte Carlo methods. In addition, the fundamental questions of the theoretical identifiability of the parameters and the strength of identification in small samples lie in the particular analytical spectrum of the project.
+This is my first deep learning project in NLP. I  worked on it along with 2 wonderful team mates as part of our Deep learning in NLP course at UIC. While they worked on sentiment analysis, I wanted to see the power of BERT and transformers when used for transfer learning to solve various issues. Meanwhile, I explored a new method where they try to extract summaries based on clustering. 
